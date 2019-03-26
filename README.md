@@ -4,5 +4,5 @@ Open word under cursor (`<cWORD>`) or visually selected as url or search request
 ## Options
 ```vim
 let g:openurl_browsercmd = 'qutebrowser --target tab'
-let g:openurl_open_map = '<leader>ou'
+let g:openurl_open_map = 'gx'
 ```

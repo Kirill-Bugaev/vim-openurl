@@ -5,7 +5,7 @@ if !exists('g:openurl_browsercmd')
 endif
 " Map keys
 if !exists('g:openurl_open_map')
-	let g:openurl_open_map = '<leader>ou'
+	let g:openurl_open_map = 'gx'
 endif
 
 " Maps
